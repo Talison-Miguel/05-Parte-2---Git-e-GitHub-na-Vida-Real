@@ -1,1 +1,1 @@
-Big Picture by HTML5 UP
+Big Picture by Tálison
