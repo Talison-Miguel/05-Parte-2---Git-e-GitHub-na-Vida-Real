@@ -1,1 +1,1 @@
-Big Picture by Tálison
+Tálison
