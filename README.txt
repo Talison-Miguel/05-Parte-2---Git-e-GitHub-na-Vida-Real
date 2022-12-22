@@ -71,5 +71,3 @@ Para copiar o projeto, utilize os comandos:
   </a>
   
 </p>
-
-
