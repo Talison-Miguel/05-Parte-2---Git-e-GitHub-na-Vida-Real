@@ -1,5 +1,5 @@
 <h1 align="center">
- 📘 Curso de Git e Github na Vida Real
+ 📘 Curso de Git e Github na Vida Real (Parte 2)
 </h1>
 
 <p align="center">
@@ -49,7 +49,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso de git e github
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Curso-Git-e-Github-na-Vida-Real.git
+  ❯ git clone https://github.com/Talison-Miguel/Parte-2-Git-e-GitHub-na-Vida-Real.git
 ```
 
 ---
