@@ -18,6 +18,12 @@
 
 ---
 
+<p align="center">
+  <img alt="Imagem da Aplicação" src="images/img.jpg" />
+</p>
+
+---
+
 #  Índice
 
 - :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
